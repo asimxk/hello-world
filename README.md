@@ -1,2 +1,2 @@
 # hello-world
-my first repo
+Hello! This is my first repository. I'm a beginner in Data Science :p
